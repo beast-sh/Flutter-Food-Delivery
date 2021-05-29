@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1074448834109",
+    "firebase_url": "https://foodninjabmsce.firebaseio.com",
+    "project_id": "foodninjabmsce",
+    "storage_bucket": "foodninjabmsce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074448834109:android:d40faeacf88681bd185454",
+        "android_client_info": {
+          "package_name": "com.example.foodninjabmsce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074448834109-a90t1ojtdoahva1v0q4eufb2f16u05tp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodninjabmsce",
+            "certificate_hash": "d6929eb7d1a01c54586e0357b19da300da5e04ce"
+          }
+        },
+        {
+          "client_id": "1074448834109-0968f7mrl4ube30boqqaln2soo4v7k0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeF4hcvns8sJO55TU4d8R6zIotVRD0QaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074448834109-0968f7mrl4ube30boqqaln2soo4v7k0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
